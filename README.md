@@ -18,7 +18,7 @@ $ git clone https://github.com/docker/doodle.git
 ```
     깃안에 있는 파일들은 다음과 같은 구조로 되어있습니다.
 
-![directory](halloween2019_Files.png)
+![directory](hwfileStructure.PNG)
 ---
 2. 가져온 파일들 중 하나의 폴더에 들어가 다음의 docker 명령어를 실행합니다. 
     
